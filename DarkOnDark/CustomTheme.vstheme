@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="RobsDarkOnDark (3)" GUID="{f4b48abd-9221-4e4b-9eb3-22c5c76ffe8b}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="DarkOnDark" GUID="{6aa0d774-97b1-41e8-9b29-c11f10cae2ba}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
@@ -11010,20 +11010,20 @@
     </Category>
     <Category Name="UserInformation" GUID="{b6d9f1fc-e422-4755-a014-3fb666d831dc}">
       <Color Name="IDCardText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF40BDFF" />
       </Color>
       <Color Name="IDCardBackground">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF4C4C65" />
       </Color>
       <Color Name="IDCardBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF727285" />
       </Color>
       <Color Name="IDCardSeparator">
-        <Background Type="CT_RAW" Source="FFE7E8EC" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF727285" />
+        <Foreground Type="CT_RAW" Source="FFAB8D8D" />
       </Color>
       <Color Name="ErrorText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFFD5656" />
       </Color>
       <Color Name="ErrorBackground">
         <Background Type="CT_RAW" Source="FFFDFBAC" />
@@ -11035,10 +11035,10 @@
         <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="IDCardMinimalModeText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF30B1B6" />
       </Color>
       <Color Name="IDCardMinimalModeInactiveWindowText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF0EB29E" />
       </Color>
       <Color Name="IDCardMinimalModeInactiveText">
         <Background Type="CT_RAW" Source="FFA2A4A5" />
