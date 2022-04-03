@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="DarkOnDark" GUID="{6aa0d774-97b1-41e8-9b29-c11f10cae2ba}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="DarkOnDark (1)" GUID="{726387df-3eb5-43ae-a606-936318a64561}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
@@ -2353,11 +2353,11 @@
       </Color>
       <Color Name="ReSharper HTML Fallback Attribute Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00FFF5" />
       </Color>
       <Color Name="ReSharper HTML Fallback Attribute Value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFF500" />
       </Color>
       <Color Name="ReSharper HTML Fallback Element Name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2365,7 +2365,7 @@
       </Color>
       <Color Name="ReSharper HTML Fallback Tag Delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFF9CE" />
       </Color>
       <Color Name="ReSharper HTML Entity 1">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2777,7 +2777,7 @@
       </Color>
       <Color Name="ReSharper HTML ID attribute">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFEA00" />
       </Color>
       <Color Name="ReSharper CSS value">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -3453,7 +3453,7 @@
       </Color>
       <Color Name="HTML Attribute Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00FFEA" />
       </Color>
       <Color Name="RazorDirective">
         <Background Type="CT_INVALID" Source="00000000" />
