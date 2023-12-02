@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="DarkOnDark (8)" GUID="{583fdd9d-608c-45b4-bac3-403116af38e3}" BaseGUID="{edab66c1-3aea-4f56-a4cc-389110c1e62a}">
+  <Theme Name="DarkOnDark (9)" GUID="{0fe3d9b9-6cf8-406a-9842-a844aa7318fa}" BaseGUID="{edab66c1-3aea-4f56-a4cc-389110c1e62a}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
@@ -4310,13 +4310,13 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="TextBoxBackground">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF4C4C65" />
       </Color>
       <Color Name="TextBoxBorder">
         <Background Type="CT_RAW" Source="FFCCCEDB" />
       </Color>
       <Color Name="TextBoxText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TextBoxBackgroundDisabled">
         <Background Type="CT_RAW" Source="FFEEEEF2" />
@@ -4334,7 +4334,7 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="TextBoxTextFocused">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TextBoxWatermark">
         <Background Type="CT_RAW" Source="FFFFE500" />
