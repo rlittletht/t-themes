@@ -4597,7 +4597,7 @@
         <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="InnerTabSelectedText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF26F8D6" />
       </Color>
       <Color Name="InnerTabText">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
