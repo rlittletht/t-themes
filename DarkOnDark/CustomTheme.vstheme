@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="DarkOnDark (9)" GUID="{0fe3d9b9-6cf8-406a-9842-a844aa7318fa}" BaseGUID="{edab66c1-3aea-4f56-a4cc-389110c1e62a}">
+  <Theme Name="DarkOnDark (13)" GUID="{8b501d26-a7e2-42a3-9a1d-403056252bae}" BaseGUID="{8fc145a2-d5f0-4ecf-b84e-ab4e1c6bff4f}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
@@ -3316,7 +3316,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Dynamic Program Analysis Highlighter (Issue frame)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF231E3C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Word Wrap Glyph">
@@ -4328,7 +4328,7 @@
         <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextBoxBackgroundFocused">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF4C4C65" />
       </Color>
       <Color Name="TextBoxBorderFocused">
         <Background Type="CT_RAW" Source="FF007ACC" />
