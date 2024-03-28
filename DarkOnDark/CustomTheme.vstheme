@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="DarkOnDark (14)" GUID="{a33fb59a-6259-4969-b3a9-b0a788736eae}" BaseGUID="{8b501d26-a7e2-42a3-9a1d-403056252bae}">
+  <Theme Name="DarkOnDark (15)" GUID="{624c7d05-cf81-4d33-8ec0-4229d449a957}" BaseGUID="{8b501d26-a7e2-42a3-9a1d-403056252bae}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
@@ -1432,7 +1432,7 @@
         <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="xml doc comment - processing instruction">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFFE000" />
         <Foreground Type="CT_RAW" Source="FF31FF00" />
       </Color>
       <Color Name="xml doc comment - text">
@@ -4040,7 +4040,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="StickyScroll Background">
-        <Background Type="CT_RAW" Source="FF0005FC" />
+        <Background Type="CT_RAW" Source="FF10B1D1" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
